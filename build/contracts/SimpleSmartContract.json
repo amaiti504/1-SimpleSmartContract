@@ -1,0 +1,124 @@
+{
+  "contractName": "SimpleSmartContract",
+  "abi": [],
+  "metadata": "{\"compiler\":{\"version\":\"0.5.16+commit.9c3226ce\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"methods\":{}},\"userdoc\":{\"methods\":{}}},\"settings\":{\"compilationTarget\":{\"/D/Programming/Solidity/SimpleSmartContract/contracts/SImpleSmartContract.sol\":\"SimpleSmartContract\"},\"evmVersion\":\"istanbul\",\"libraries\":{},\"optimizer\":{\"enabled\":false,\"runs\":200},\"remappings\":[]},\"sources\":{\"/D/Programming/Solidity/SimpleSmartContract/contracts/SImpleSmartContract.sol\":{\"keccak256\":\"0xf0dca062440badf243cba69fd0e19e3eb8115db8560f30b5c565ba604272e6b7\",\"urls\":[\"bzz-raw://474afb0e172b837d9e5e14c184808f6e691f2d114698241111550995b4a5638f\",\"dweb:/ipfs/QmPWnx4GJosVwPTdHhjYayetvvuWzAeE8J4wukgtsNTyu9\"]}},\"version\":1}",
+  "bytecode": "0x6080604052348015600f57600080fd5b50603e80601d6000396000f3fe6080604052600080fdfea265627a7a7231582041522be0d82852d2c89fd8f2d5afc2d051f3e9f1fb1f60374a25b0a29477aba764736f6c63430005100032",
+  "deployedBytecode": "0x6080604052600080fdfea265627a7a7231582041522be0d82852d2c89fd8f2d5afc2d051f3e9f1fb1f60374a25b0a29477aba764736f6c63430005100032",
+  "sourceMap": "27:33:1:-;;;;8:9:-1;5:2;;;30:1;27;20:12;5:2;27:33:1;;;;;;;",
+  "deployedSourceMap": "27:33:1:-;;;;;",
+  "source": "pragma solidity ^0.5.0;\r\n\r\ncontract SimpleSmartContract {\r\n}",
+  "sourcePath": "D:/Programming/Solidity/SimpleSmartContract/contracts/SImpleSmartContract.sol",
+  "ast": {
+    "absolutePath": "/D/Programming/Solidity/SimpleSmartContract/contracts/SImpleSmartContract.sol",
+    "exportedSymbols": {
+      "SimpleSmartContract": [
+        35
+      ]
+    },
+    "id": 36,
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 34,
+        "literals": [
+          "solidity",
+          "^",
+          "0.5",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "baseContracts": [],
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": null,
+        "fullyImplemented": true,
+        "id": 35,
+        "linearizedBaseContracts": [
+          35
+        ],
+        "name": "SimpleSmartContract",
+        "nodeType": "ContractDefinition",
+        "nodes": [],
+        "scope": 36,
+        "src": "27:33:1"
+      }
+    ],
+    "src": "0:60:1"
+  },
+  "legacyAST": {
+    "attributes": {
+      "absolutePath": "/D/Programming/Solidity/SimpleSmartContract/contracts/SImpleSmartContract.sol",
+      "exportedSymbols": {
+        "SimpleSmartContract": [
+          35
+        ]
+      }
+    },
+    "children": [
+      {
+        "attributes": {
+          "literals": [
+            "solidity",
+            "^",
+            "0.5",
+            ".0"
+          ]
+        },
+        "id": 34,
+        "name": "PragmaDirective",
+        "src": "0:23:1"
+      },
+      {
+        "attributes": {
+          "baseContracts": [
+            null
+          ],
+          "contractDependencies": [
+            null
+          ],
+          "contractKind": "contract",
+          "documentation": null,
+          "fullyImplemented": true,
+          "linearizedBaseContracts": [
+            35
+          ],
+          "name": "SimpleSmartContract",
+          "nodes": [
+            null
+          ],
+          "scope": 36
+        },
+        "id": 35,
+        "name": "ContractDefinition",
+        "src": "27:33:1"
+      }
+    ],
+    "id": 36,
+    "name": "SourceUnit",
+    "src": "0:60:1"
+  },
+  "compiler": {
+    "name": "solc",
+    "version": "0.5.16+commit.9c3226ce.Emscripten.clang"
+  },
+  "networks": {
+    "5777": {
+      "events": {},
+      "links": {},
+      "address": "0xCF4f0a54861C57294B9C6DAC90499ba8d34Be270",
+      "transactionHash": "0x19101eecc29c704dcfdcb2549061820a6aa3ea0d145504529905afe19722b4ac"
+    }
+  },
+  "schemaVersion": "3.3.4",
+  "updatedAt": "2021-05-04T07:21:36.929Z",
+  "networkType": "ethereum",
+  "devdoc": {
+    "methods": {}
+  },
+  "userdoc": {
+    "methods": {}
+  }
+}
